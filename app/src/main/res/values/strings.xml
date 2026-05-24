@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">دانلود روز</string>
+
+    <string name="welcome_back">روز دانلود</string>
+    <string name="verify_credentials">آدرس، شناسه و گذرواژهٔ خود را وارد کنید</string>
+    <string name="server_address">Server Address</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="proceed_to_login">Proceed to Login</string>
+    <string name="app_credits">App Build v1.0.0\nCreated for Android TV</string>
+    <string name="image_placeholder">[ Stunning Movie Poster Image Here ]</string>
+</resources>
